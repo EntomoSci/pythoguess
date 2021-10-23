@@ -1,0 +1,27 @@
+_______________________________________________________________________________
+
+Welcome to PythoGuess!
+
+    In this game the machine generates a random number between 1 and 100.
+    Your mission is try to adivinate that number 25 times before lose
+    all your lives.
+
+
+    How to play:
+
+    -You starts with 10 lives.
+
+    -If you fail, you lose 1 live and the machine tells you if the number
+     youchose is less than or greater than the secret number.
+
+    -If you adivinate the number, you gain 5 lives! but... the max range
+     increases in 10!.
+
+    -If you guess the secret number 25 times ¡You win! ah... and you will
+     have the permission of the robot to keep learning python.
+
+
+    Try to win as much as you can.
+    
+
+________________________________ ¡Good luck! __________________________________

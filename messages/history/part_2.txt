@@ -1,0 +1,26 @@
+_______________________________________________________________________________
+
+-- Adaptation of a Mark Moir ASCII draw --
+
+                              / |         |\\
+                             |_______________|
+                         ____|__/( )| |( )\__|____
+                         \___|      | |      |___/
+                          ___|\     |_|     /|___
+                         /___| \           / |__\\
+                              \| /  ___  \ |/
+                               \ | / _ \ | /
+                                \_________/
+                                 _|_____|_
+                            ____|_________|____
+                           /                   \
+
+___________________________________ PART 2 ____________________________________
+
+The robot say:
+"I will demonstrate my power over humans creating a random number between
+1 and 100. Your mission is try to adivinate that number. If I win, I am the
+most intelligent creature in this tridimentional reality. If you win... you
+got my permission to keep learning the programming language used to bring
+me to life, Python."
+_______________________________________________________________________________

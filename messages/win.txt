@@ -1,0 +1,7 @@
+_____________________________ ¡CONGRATULATIONS! _______________________________
+    
+    You beat the machine challenge!
+    You proved to be smarter (or luckier) than the machine!
+    And even more smarter (or luckier) than the creator of the program!
+    You!...now have the permission to keep learning python.
+_______________________________________________________________________________
