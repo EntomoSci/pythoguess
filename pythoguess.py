@@ -8,7 +8,6 @@ game_history = {
     "part_3": open(history_path + 'part_3.txt', 'r'),
 }
 
-
 game_events = {
     "instructions": open('./messages/instructions.txt', 'r'),
     "gameover": open('./messages/gameover.txt', 'r'),
@@ -27,10 +26,14 @@ def run():
         history_part += 1
 
         if history_part > 3:
+            for item in game_history: # Closing all history file handlers to liberate memory
+                game_history[item].close()
             break
 
     # Starting the game
     print(game_events['instructions'].read())
+    game_events['instructions'].close()
+    
     max_range = 100
     user_lives = 10
     wins = 0
